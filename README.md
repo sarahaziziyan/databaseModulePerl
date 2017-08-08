@@ -25,3 +25,5 @@ copy databaseFunctions.pm to /usr/lib64/perl5/ directory so that it will be seen
 copy databaseFunctions.pm to [your perl library in windows]
 
 remember to copy config files to the specified directory which in this code example is /tmp/config/
+
+Sarah Aziziyan. All rights reserved. This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
